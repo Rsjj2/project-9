@@ -1,0 +1,31 @@
+body{
+    background-color: yellow;
+    text-align:center;
+
+}
+h1{
+    color:red;
+    font-size: 37px;
+
+}
+p{
+    color:orange;
+font-size:25px;
+font-family:Arial, Helvetica, sans-serif;
+padding:7px;
+}
+button{
+    color:green;
+    font-size:30px;
+    cursor:pointer;
+   margin:6px; 
+   background-color: blue;
+   
+
+}
+button:hover{
+    background-color: blueviolet;
+    color:red;
+    font-size:20px;
+    
+}
